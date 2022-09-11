@@ -1,0 +1,81 @@
+{
+	"carName": "mercedes_amg_gt3",
+	"basicSetup":
+	{
+		"tyres":
+		{
+			"tyreCompound": 0,
+			"tyrePressure": [ 10, 16, 13, 16 ]
+		},
+		"alignment":
+		{
+			"camber": [ 22, 22, 6, 6 ],
+			"toe": [ 27, 27, 48, 48 ],
+			"staticCamber": [ -3.7071597576141357, -3.703162670135498, -4.1018095016479492, -4.0984649658203125 ],
+			"toeOutLinear": [ 0.00019177992362529039, 0.00019134226022288203, 0.0001906566321849823, 0.0001909266720758751 ],
+			"casterLF": 33,
+			"casterRF": 33,
+			"steerRatio": 0
+		},
+		"electronics":
+		{
+			"tC1": 9,
+			"tC2": 0,
+			"abs": 2,
+			"eCUMap": 0,
+			"fuelMix": 0,
+			"telemetryLaps": 0
+		},
+		"strategy":
+		{
+			"fuel": 42,
+			"nPitStops": 0,
+			"tyreSet": 0,
+			"pitStrategy": [
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 0, 0, 0, 0 ]
+					},
+					"tyreSet": 2
+				}
+			],
+			"fuelPerLap": 3.4500000476837158
+		}
+	},
+	"advancedSetup":
+	{
+		"mechanicalBalance":
+		{
+			"aRBFront": 4,
+			"aRBRear": 4,
+			"wheelRate": [ 0, 0, 2, 2 ],
+			"bumpStopRateUp": [ 9, 9, 3, 3 ],
+			"bumpStopRateDn": [ 0, 0, 10, 10 ],
+			"bumpStopWindow": [ 25, 25, 50, 50 ],
+			"brakeTorque": 20,
+			"brakeBias": 53
+		},
+		"dampers":
+		{
+			"bumpSlow": [ 4, 4, 7, 7 ],
+			"bumpFast": [ 4, 4, 8, 8 ],
+			"reboundSlow": [ 8, 8, 7, 7 ],
+			"reboundFast": [ 9, 9, 6, 6 ]
+		},
+		"aeroBalance":
+		{
+			"rideHeight": [ 8, 6, 10, 18 ],
+			"rodLength": [ 21.703105926513672, 21.703105926513672, 81.008316040039063, 81.008316040039063 ],
+			"splitter": 7,
+			"rearWing": 5,
+			"brakeDuct": [ 3, 3 ]
+		},
+		"drivetrain":
+		{
+			"preload": 1
+		}
+	}
+}

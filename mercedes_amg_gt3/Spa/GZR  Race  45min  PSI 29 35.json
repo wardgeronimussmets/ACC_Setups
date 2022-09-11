@@ -1,0 +1,342 @@
+{
+	"carName": "mercedes_amg_gt3",
+	"basicSetup":
+	{
+		"tyres":
+		{
+			"tyreCompound": 0,
+			"tyrePressure": [ 58, 62, 61, 64 ]
+		},
+		"alignment":
+		{
+			"camber": [ 28, 28, 12, 12 ],
+			"toe": [ 38, 38, 48, 48 ],
+			"staticCamber": [ -2.9991941452026367, -2.9934959411621094, -3.4836556911468506, -3.4803547859191895 ],
+			"toeOutLinear": [ -0.00013019902689848095, -0.0001309098006458953, 0.0001596106740180403, 0.00016188695735763758 ],
+			"casterLF": 33,
+			"casterRF": 33,
+			"steerRatio": 0
+		},
+		"electronics":
+		{
+			"tC1": 9,
+			"tC2": 0,
+			"abs": 3,
+			"eCUMap": 0,
+			"fuelMix": 0,
+			"telemetryLaps": 0
+		},
+		"strategy":
+		{
+			"fuel": 32,
+			"nPitStops": 0,
+			"tyreSet": 2,
+			"pitStrategy": [
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 5
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 5
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 5
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 5
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 11, 10, 8, 7 ]
+					},
+					"tyreSet": 5
+				}
+			],
+			"fuelPerLap": 4.0500001907348633
+		}
+	},
+	"advancedSetup":
+	{
+		"mechanicalBalance":
+		{
+			"aRBFront": 4,
+			"aRBRear": 2,
+			"wheelRate": [ 1, 1, 3, 3 ],
+			"bumpStopRateUp": [ 7, 7, 7, 7 ],
+			"bumpStopRateDn": [ 0, 0, 10, 10 ],
+			"bumpStopWindow": [ 8, 25, 20, 20 ],
+			"brakeTorque": 20,
+			"brakeBias": 46
+		},
+		"dampers":
+		{
+			"bumpSlow": [ 8, 8, 10, 10 ],
+			"bumpFast": [ 2, 2, 6, 6 ],
+			"reboundSlow": [ 7, 7, 7, 7 ],
+			"reboundFast": [ 5, 5, 4, 4 ]
+		},
+		"aeroBalance":
+		{
+			"rideHeight": [ 7, 6, 8, 18 ],
+			"rodLength": [ 17.927484512329102, 17.927484512329102, 74.322181701660156, 74.322181701660156 ],
+			"splitter": 3,
+			"rearWing": 6,
+			"brakeDuct": [ 3, 2 ]
+		},
+		"drivetrain":
+		{
+			"preload": 8
+		}
+	}
+}

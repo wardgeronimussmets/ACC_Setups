@@ -1,0 +1,342 @@
+{
+	"carName": "mercedes_amg_gt3",
+	"basicSetup":
+	{
+		"tyres":
+		{
+			"tyreCompound": 0,
+			"tyrePressure": [ 26, 38, 28, 45 ]
+		},
+		"alignment":
+		{
+			"camber": [ 24, 24, 15, 15 ],
+			"toe": [ 28, 28, 54, 54 ],
+			"staticCamber": [ -3.1371860504150391, -3.1241531372070313, -3.1123406887054443, -3.0982182025909424 ],
+			"toeOutLinear": [ -0.00012669102579820901, -0.00012685079127550125, 0.00020072987535968423, 0.00019992329180240631 ],
+			"casterLF": 33,
+			"casterRF": 33,
+			"steerRatio": 1
+		},
+		"electronics":
+		{
+			"tC1": 9,
+			"tC2": 0,
+			"abs": 3,
+			"eCUMap": 0,
+			"fuelMix": 0,
+			"telemetryLaps": 0
+		},
+		"strategy":
+		{
+			"fuel": 43,
+			"nPitStops": 29,
+			"tyreSet": 1,
+			"pitStrategy": [
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 0, 0, 0, 0 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				},
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 24, 26, 23, 32 ]
+					},
+					"tyreSet": 2
+				}
+			],
+			"fuelPerLap": 2.9300000667572021
+		}
+	},
+	"advancedSetup":
+	{
+		"mechanicalBalance":
+		{
+			"aRBFront": 2,
+			"aRBRear": 4,
+			"wheelRate": [ 1, 1, 0, 0 ],
+			"bumpStopRateUp": [ 12, 12, 1, 1 ],
+			"bumpStopRateDn": [ 0, 0, 10, 10 ],
+			"bumpStopWindow": [ 25, 25, 12, 12 ],
+			"brakeTorque": 20,
+			"brakeBias": 53
+		},
+		"dampers":
+		{
+			"bumpSlow": [ 6, 6, 10, 10 ],
+			"bumpFast": [ 2, 2, 6, 6 ],
+			"reboundSlow": [ 7, 7, 7, 7 ],
+			"reboundFast": [ 6, 6, 6, 6 ]
+		},
+		"aeroBalance":
+		{
+			"rideHeight": [ 2, 6, 0, 18 ],
+			"rodLength": [ 12.442556381225586, 12.442556381225586, 81.570693969726563, 81.570693969726563 ],
+			"splitter": 8,
+			"rearWing": 4,
+			"brakeDuct": [ 3, 3 ]
+		},
+		"drivetrain":
+		{
+			"preload": 4
+		}
+	}
+}
